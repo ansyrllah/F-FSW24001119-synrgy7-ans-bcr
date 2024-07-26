@@ -1,7 +1,7 @@
 # SYNRGY 7 Challenge 6 RESTful API FSW 4
 ## Ansyarullah
 
-### Instruksi
+### Cara pakai
 
 1. Clone/Download ke lokal
 2. Masuk ke direktori yang sudah di Clone/Download `cd nama-direktori-anda`
