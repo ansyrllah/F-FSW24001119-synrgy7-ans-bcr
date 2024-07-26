@@ -20,11 +20,11 @@ app.use(express.urlencoded({ extended: true }));
 
 app.get("/", (req: Request, res: Response): void => {
   res.status(200).json({
-    message: "Hello, this Restful API Challenge SYNRGY 7 build from Muhammad Fachrian Noor",
+    message: "Test World, welcome to Restful API Challenge SYNRGY 7 build - Ansyarullah",
   });
 });
 
-app.use("/api/docs", swaggerUI.serve, swaggerUI.setup(YAML.load("api-ch6-synrgy-muhfachriannoor-docs.yaml"))); // Dokumentasi API 
+app.use("/api/docs", swaggerUI.serve, swaggerUI.setup(YAML.load("api-ch6-synrgy-ansyarullah-docs.yaml"))); // Dokumentasi API 
 
 app.use("/api/cars", carsRouter); //Cars Router
 app.use("/api/users", [authorize, checkRole(["SUPERADMIN"])], usersRouter); //Users Router

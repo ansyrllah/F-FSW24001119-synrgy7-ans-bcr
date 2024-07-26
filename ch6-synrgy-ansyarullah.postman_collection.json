@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "f976e871-9bdd-4922-9f6c-34e297505980",
 		"name": "Challenge 6 SYNRGY",
-		"description": "build from Muhammad Fachrian Noor FSW-4 SYNRGY Batch 7",
+		"description": "build from Ansyarullah FSW-4 SYNRGY Batch 7",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "30740866"
 	},
@@ -2800,7 +2800,7 @@
 								{
 									"key": "image",
 									"type": "file",
-									"src": "/C:/Users/muhfachriannoor/Downloads/img_car.png"
+									"src": "/C:/Users/ansyarullah/Downloads/img_car.png"
 								},
 								{
 									"key": "rentPerDay",
@@ -2917,7 +2917,7 @@
 										{
 											"key": "image",
 											"type": "file",
-											"src": "/C:/Users/muhfachriannoor/Downloads/img_car.png"
+											"src": "/C:/Users/ansyarullah/Downloads/img_car.png"
 										},
 										{
 											"key": "rentPerDay",
@@ -3077,7 +3077,7 @@
 										{
 											"key": "image",
 											"type": "file",
-											"src": "/C:/Users/muhfachriannoor/Downloads/img_car.png",
+											"src": "/C:/Users/ansyarullah/Downloads/img_car.png",
 											"disabled": true
 										},
 										{
@@ -3248,7 +3248,7 @@
 										{
 											"key": "image",
 											"type": "file",
-											"src": "/C:/Users/muhfachriannoor/Downloads/img_car.png"
+											"src": "/C:/Users/ansyarullah/Downloads/img_car.png"
 										},
 										{
 											"key": "rentPerDay",
@@ -3404,7 +3404,7 @@
 										{
 											"key": "image",
 											"type": "file",
-											"src": "/C:/Users/muhfachriannoor/Downloads/img_car.png"
+											"src": "/C:/Users/ansyarullah/Downloads/img_car.png"
 										},
 										{
 											"key": "rentPerDay",

@@ -1,12 +1,12 @@
 import postmanToOpenApi from "postman-to-openapi";
 
-const collections = ["ch6-synrgy-muhfachriannoor"];
+const collections = ["ch6-synrgy-ansyar"];
 const options = {
   defaultTag: "General",
   servers: [
     {
       url: "http://localhost:5000",
-      description: "SYNRGY 7 Challenge 6 FSW 4 Muhammad Fachrian Noor",
+      description: "SYNRGY 7 Challenge 6 FSW 4 Ansyarullah",
     },
   ],
 };

@@ -1,8 +1,9 @@
-## SYNRGY 7 Challenge 6 RESTful API FSW 4 Muhammad Fachrian Noor
+# SYNRGY 7 Challenge 6 RESTful API FSW 4
+## Ansyarullah
 
 ### Instruksi
 
-1. Clone/Download ke lokal dengan perintah `git clone -b Challenge_6 --single-branch https://github.com/muhfachriannoor/F-FSW24001119-synrgy7-fac-bcr.git`
+1. Clone/Download ke lokal
 2. Masuk ke direktori yang sudah di Clone/Download `cd nama-direktori-anda`
 3. Selanjutnya menduplikasi file `.env.example` ke `.env` dan diisi dengan Database PostgreSQL milik Anda, akun Cloudinary dan JWT
 4. Jalankan perintah `npm install` untuk menginstall library yang dibutuhkan
